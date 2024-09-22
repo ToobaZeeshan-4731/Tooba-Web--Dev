@@ -1,0 +1,23 @@
+<!Doctype html>
+<html lang="eng">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <h2> unordered list </h2>
+    <ul type="square">
+       <li>item</li>
+       <li>item</li>
+       <li>item</li>
+    </ul>
+
+    <h2>
+        ordered list
+    </h2>
+    <ol type="a">
+        <li>item </li>
+        <li>item</li>
+        <li>item</li>
+    </ol>
+</body>
+</html>

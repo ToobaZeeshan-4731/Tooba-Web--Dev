@@ -1,0 +1,21 @@
+<!Doctype html>
+<html lang="eng">
+<title>Document</title>
+<head>
+    <body>
+        <h2>This is how you add links</h2>
+        <table border="5">
+            <t><th>Links</th>
+        <tr>
+            <td><a href="https://www.wikipedia.com/">
+                 Visit wikipedia!</a></tr>
+            <td><a href="https://www.google.com/">
+                Visit google!</a></tr>
+            <td><a href="https://www.yahoo.com/">
+                    Visit yahoo!</a></tr>
+            <td><a href="https://www.hotmail.com/">
+                Visit hotmail!</a></tr>
+        </tr>
+        </table>
+    </body>
+</head>
