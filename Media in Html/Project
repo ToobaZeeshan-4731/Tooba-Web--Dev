@@ -9,11 +9,19 @@
     alt="">
     <p><b>Rich Dad Poor Dad</b></p>
     <hr>
+    <h2>A Small Introduction</h2>
+        <iframe width="930" height="523" src="https://www.youtube.com/embed/eDa1U9qJKxo"
+            title="Rich Dad Poor Dad by Robert Kiyosaki (Detailed Summary)" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <hr>
     <h2>The Quotes From This Book</h2>
+</center>
     <ul>
         <li><q>There is a difference between being poor and being broke. Broke is temporary. Poor is eternal.</q></li>
         <li>“Don’t be addicted to money. Work to learn, don’t work for money. Work for knowledge.”</li>
     </ul>
+    <center>
     <hr>
     <h2>The audile of Quotes</h2>
     <audio controls>
@@ -38,5 +46,9 @@
         </li>
     </li>
 </ul>
+<hr>
+<h3>LINKS</h3>
+<a href="https://en.wikipedia.org/wiki/Robert_Kiyosaki">Robert T.Kiyosaki Wikipedia
+</a>
         </body>
 </html>
