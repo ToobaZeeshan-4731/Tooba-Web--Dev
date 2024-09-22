@@ -1,3 +1,42 @@
-<!doctype html>
+<!doctype >
         <title Document></title>
-<head>
+    </head>
+        <body>
+<center>
+    <h1>My Favourite Book</h1>
+    <hr>
+    <img height="500px" width="700px"src="https://cdn.prod.website-files.com/63c5e29f1b5bc83fe0af2489/667d74b5e073485b32692b96_Rich%20Dad%20Poor%20Dad.webp"
+    alt="">
+    <p><b>Rich Dad Poor Dad</b></p>
+    <hr>
+    <h2>The Quotes From This Book</h2>
+    <ul>
+        <li><q>There is a difference between being poor and being broke. Broke is temporary. Poor is eternal.</q></li>
+        <li>“Don’t be addicted to money. Work to learn, don’t work for money. Work for knowledge.”</li>
+    </ul>
+    <hr>
+    <h2>The audile of Quotes</h2>
+    <audio controls>
+        <source src="The single most powerful 1.mp3" type="audio/mp3">
+    </audio>
+        <audio controls>
+        <source src="Skills make you rich no 1.mp3" type="audio/mp3">
+    </audio>
+    <hr>
+    <h2>The Cause That I Like This Book </h2>
+    <video controls width="600px" height="400px">
+    <source src="invideo-ai-480 Why 'Rich Dad Poor Dad' Will Change Your 2024-09-22 (1).mp4" type="video/mp4">
+    </video>
+    <hr>
+<h2>Key Points </h2>
+</center>
+<ul>
+    <li>
+        The author of this book is Robert T.Kiyosaki.
+        <li>
+            This book is about Finance.
+        </li>
+    </li>
+</ul>
+        </body>
+</html>
