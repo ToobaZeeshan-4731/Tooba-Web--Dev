@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <title Document></title>
+    </head>
+    <body>
+        <!-- img -->
+         <center>
+         <h1>My orange car</h1>
+         <img src="https://plus.unsplash.com/premium_photo-1664303847960-586318f59035?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2Fyc3xlbnwwfHwwfHx8MA%3D%3D" alt="">
+         <p>car image from 90's</p>
+    <hr>
+    <h2>My fav song</h2>
+    <audio controls>
+        <source src="audio.mp3" type="audio/mp3">
+    </audio>
+    <hr>
+    <h2> my fav video</h2>
+    <video controls width="300px" height="400px">
+        <source src="video.mp4" type="video/mp4">
+    </video>
+         </center> 
+    </body>
+</html>
