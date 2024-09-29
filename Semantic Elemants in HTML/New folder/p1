@@ -1,0 +1,57 @@
+<!Doctype html>
+<html lang="eng">
+    <head>
+        <title>Project</title>
+    </head>
+    <body>
+        <center>
+            <header>
+                <h1>The Robots</h1>
+                <h4>
+                    <nav>
+                        <a href="https://en.wikipedia.org/wiki/Robot">Robots</a>
+                    </nav>
+                </h4>
+            </header>
+    <hr>
+            <main>
+                <figuere>
+                 <img src="https://t4.ftcdn.net/jpg/02/10/96/95/360_F_210969565_cIHkcrIzRpWNZzq8eaQnYotG4pkHh0P9.jpg">
+                </figuere>
+                <section>
+                <h2>
+                    Introduction
+                </h2>
+                <p>A robot is a type of automated machine that can execute specific tasks with little or no human intervention and with
+                speed and precision.</p>
+                </section>
+                <section>
+                    <h2>Types of Robots</h2>
+                </center>
+                    <ol>
+                        <li>Cartesian robot</li>
+                        <li>Cylindrical robot</li>
+                        <li>Spherical robot</li>
+                        <li>SCARA robot</li>
+                        <li>Articulated robot</li>
+                        <li>Delta Robot</li>
+                    </ul>
+                    <center>
+                </section>
+                <section>
+                    <h2>
+                        Uses of Robots
+                    </h2>
+                    <p>Robots are utilized across various fields, enhancing efficiency and safety. In manufacturing, they automate assembly
+                    lines, reducing human error. In healthcare, they assist in surgeries and patient care. Robots also play vital roles in
+                    exploration, like deep-sea and space missions, and in daily life through home automation, improving convenience and
+                    productivity.
+</p>
+                </section>
+                <hr>
+            <footer>
+                    <b><p>Copyright &copy; 2024</p></b>
+            </footer>
+        </center>
+    </body>
+</html>

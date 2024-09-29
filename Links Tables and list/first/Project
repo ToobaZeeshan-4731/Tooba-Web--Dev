@@ -1,8 +1,13 @@
 <!DOCTYPE html>
 <html>
-
+    
 <head>
-
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
 <body>
     <h2>Result of Important Subjects of 3 Students</h2>
     <table border="5" bgcolor="DE3163">
@@ -23,5 +28,4 @@
         </tr>
     </table>
 </body>
-</head>
 </html>

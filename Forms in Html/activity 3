@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Activity</title>
+    </head>
+        <body>
+            <form>
+            <fieldset>
+                <legend><b>Enter Your Marks</b></legend>
+                <!--Enter Name-->
+            <label>Name:</label><br>
+            <input type="text" placeholder="Type your name"><br><br>
+            <label>Enter Marks</label><br>
+            <select>
+                <option>Maths</option>
+                <option>English</option>
+                <option>Science</option>
+            </select>
+                <input type="number" id="m1"><br><br>
+                <select>
+                    <option>Maths</option>
+                    <option>English</option>
+                    <option>Science</option>
+                </select>
+                <input type="number" id="m1"><br><br>
+                <select>
+                    <option>Maths</option>
+                    <option>English</option>
+                    <option>Science</option>
+                </select>
+                <input type="number" id="m1"><br>
+            </fieldset>
+            </form>
+        </body>
+        </center>
+</html>
+            

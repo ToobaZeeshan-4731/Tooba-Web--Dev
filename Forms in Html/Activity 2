@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Activity</title>
+    </head>
+        <body>
+            <form>
+            <fieldset>
+                <legend><b>Personal Information</b></legend>
+                <!--Enter Name-->
+            <label>Username:</label><br>
+            <input type="text" placeholder="Type your name"><br><br>
+            <!--Enter Password-->
+            <label>Password:</label><br>
+            <input type="text" placeholder="Enter your password"><br><br>
+            <button>Login</button><br><br>
+            <!--Select Gender-->
+            <label>Select Gender:</label><br><br>
+            <input type="radio" name="Gender">Male<br>
+            <input type="radio" name="Gender">Female<br>
+            <input type="radio" name="Gender">Other<br><br>
+            <!--Select Skills-->
+            <label>Select Skills:</label><br><br>
+            <input type="checkbox" name="html">Male<br>
+            <input type="checkbox" name="CSS">Female<br>
+            <input type="checkbox" name="C++">Other<br><br>
+            <!--Name of University -->
+            <label>Date of Birth:</label><br>
+            <input type="date" name="Birthday">
+            </fieldset>
+            </form>
+        </body>
+</html>

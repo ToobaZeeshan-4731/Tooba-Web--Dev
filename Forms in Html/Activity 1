@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Activity</title>
+    </head>
+        <body>
+            <h1>Personal Details</h1>
+            <form>
+                <!--Enter Name-->
+            <label><b>Username:</b></label><br>
+            <input type="text" placeholder="Type your name"><br><br>
+            <!--Enter Password-->
+            <label><b>Password:</b></label><br>
+            <input type="password" name="Enter your password"><br><br>
+            <label><b>Email ID</b></label><br>
+            <input type="email" name="Enter your Email"><br><br>
+            <button>Login</button><br><br>
+            <label><b>Contact Number</b></label><br>
+            <input type="number" id="Contact"><br><br>
+            <!--Select Gender-->
+            <label><b>Select Gender:</b></label><br><br>
+            <input type="radio" name="Gender">Male<br>
+            <input type="radio" name="Gender">Female<br>
+            <input type="radio" name="Gender">Other<br><br>
+            <!--Select Skills-->
+            <label><b>Select Skills:</b></label><br><br>
+            <input type="checkbox" name="html">Male<br>
+            <input type="checkbox" name="CSS">Female<br>
+            <input type="checkbox" name="C++">Other<br><br>
+            <!--Name of University -->
+            <label><b>Name of Favourite city:</b></label><br><br>
+            <input type="checkbox" name="New Delhi">New Delhi<br>
+            <input type="checkbox" name="Bombay">Bombay<br>
+        </form>
+        </body>
+        </center>
+</html>
+            
