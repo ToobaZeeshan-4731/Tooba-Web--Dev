@@ -14,7 +14,8 @@
             color:blueviolet;
             font-family: 'Courier New', Courier, monospace;
     }
-</style>
+    </style>
+    </head>
 
 <body>
     <h1>Typography</h1>

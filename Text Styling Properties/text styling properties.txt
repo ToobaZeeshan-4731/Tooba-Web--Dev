@@ -1,0 +1,50 @@
+1.text1{
+          color:rgb(107, 52, 52);
+        font-size:100px
+}
+
+
+ 2.div {
+        width:300px;
+        height: 100px;
+        background-color: Yellow ;
+        border: 1 px solid black;
+    }
+
+
+3. #mydiv{
+       transform: rotateX(180deg);
+    }3.h5 { 
+    text-decoration: line-through;
+    text-transform: uppercase;
+}
+h2 { 
+    text-decoration: overline;
+    text-transform: capitalize;
+}
+h3 { 
+    text-decoration: underline overline;
+    text-transform: none;
+}
+h4 { 
+    text-decoration: underline;
+    text-transform: lowercase;
+}  
+
+4.       *{
+            text-align: center;
+            font-family: monospace;
+        }
+        #text{
+            text-shadow: 2px 2px 1px #CC5500;
+        }
+        #box{
+            box-shadow: 9px 9px 5px #301934;
+        }
+        #indenttext{
+        text-indent:50%;
+        }
+
+
+NOTE : Also write in ody the functions e.g class,id.
+

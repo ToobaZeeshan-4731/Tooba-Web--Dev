@@ -1,8 +1,86 @@
 <!DOCTYPE Html>
 <html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
         Project
     </title>
-<head>
-<style>
+    </head>
+
+        <style>
+             body{
+            text-align: center;
+            margin: 100px;
+            
+                }
+    .text1{
+        color:red;
+        font-size:30px
+            }
+    .text2{
+          color:rgb(107, 52, 52);
+        font-size:80px;
+        font-family:Arial, Helvetica, sans-serif;
+    }
+
+.p1{
+            color:blueviolet;
+            font-family:Arial, Helvetica, sans-serif;
+    }
+     div {
+        width:300px;
+        height: 100px;
+        background-color:rgb(231, 22, 224) ;
+        border: 1px solid black;
+        font-size: x-large;
+        font-style: oblique;
+        margin: 0 auto
+        }
+#mydiv{
+       transform: rotateX(180deg);
+    }
+
+h2 { 
+    text-decoration: overline underline line-through;
+    text-transform: uppercase;
+    }
+
+    #box{
+            box-shadow: 9px 9px 5px #301934;
+        }
+
+        #text{
+            text-shadow: 2px 2px 1px #CC5500;
+        }
+
+        #boxshadow{
+            box-shadow: 10px 10px 10px #301934;
+        }
+
+        #indenttext{
+        text-indent:50%;
+        }
+
+        .h3{
+            text-shadow: 3px 3px 3px rgb(48, 10, 184);
+        }
+        
+</style>
+
+<body>
     
+    <h1 class="text2">My work</h1>
+    <hr>
+    <p class="text1">I am Tooba.</p>
+    <p class="p1">I am a student.</p>
+
+    <div>Codingal</div>
+    <div class="mydiv">Codingal</div>
+
+    <h1 class="text">I am a learner. </h1>
+    <h2>Hi Codingal</h2>
+    <h3 class="boxshadow">I am a coder</h3>
+    <hr>
+</body>
+</html>

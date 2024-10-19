@@ -14,15 +14,15 @@
         #text{
             text-shadow: 2px 2px 1px #CC5500;
         }
-        #box{
+        #boxshadow{
             box-shadow: 9px 9px 5px #301934;
         }
         #indenttext{
         text-indent:50%;
         }
         </style>
-                <head>
+                <body>
             <h1 id="text">I am Tooba </h1>
-                <h2 id=shadow>I am a student
+                <h2 id=boxshadow>I am a student
                 </h2>
-                </head>
+                </body>
