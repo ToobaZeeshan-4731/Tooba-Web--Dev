@@ -1,0 +1,22 @@
+<!DOCTYPE Html>
+<html lang=eng>
+    <head>
+         <title>Activity 1</title>
+         <style>
+            div,h1{
+                background-color:yellow;
+            }
+            </style>
+    </head>
+
+
+    <body>
+        <h1>My Project</h1>
+        <div>
+            Hello div
+        </div>
+        <div>
+            Hello div
+            </div>
+    </body>
+</html>

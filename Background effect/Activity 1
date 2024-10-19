@@ -1,0 +1,23 @@
+<!DOCTYPE Html>
+<html lang="eng">
+    <head>
+        <style>
+            *{
+                margin : 0;
+                padding : 0;
+                box-sizing: border-box;
+            }
+            div{
+               background-image: url("https://images.unsplash.com/photo-1727373631848-e6da2d85c872?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDF8RnpvM3p1T0hONnd8fGVufDB8fHx8fA%3D%3D");
+            height: 100vh;
+            background-repeat: no-repeat;
+            background-position:center;
+            background-attachment: fixed;
+            background-color: black;
+            }
+        </style>
+    </head>
+    <body>
+         <div></div>
+    </body>
+</html>

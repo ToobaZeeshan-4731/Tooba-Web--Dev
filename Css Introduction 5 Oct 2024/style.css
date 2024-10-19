@@ -1,0 +1,21 @@
+div {
+    background-color: blanchedalmond;
+}
+
+.institute {
+    background-color: aquamarine;
+}
+
+#country {
+    background-color: bisque;
+}
+
+* {
+    background-color: blueviolet;
+}
+
+p,
+h2,
+b {
+    background-color: coral;
+}

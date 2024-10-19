@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: cyan;
+            height: 100vh;
+            width: 30vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        div {
+            height: 200px;
+            width: 200px;
+            background: red;
+            color: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 25px;
+            font-family: sans-serif;
+            animation-name: spin; /* Updated to match keyframes */
+            animation-duration: 5s;
+            animation-fill-mode: forwards;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg) scale(1); /* Added transform */
+            }
+
+            50% {
+                transform: scale(2); /* Fixed spelling */
+            }
+
+            100% {
+                transform: rotate(360deg) scale(1); /* Added transform */
+                border-radius: 50%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div>Hello</div>
+</body>
+</html>

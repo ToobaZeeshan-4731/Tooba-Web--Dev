@@ -1,0 +1,10 @@
+<!DOCTYPE Html>
+<html lang=eng>
+    <head>
+         <title>Activity 1</title>
+    </head>
+    <body>
+        <div style="background-color: rgb(9, 156, 53); height:200px; font-size:40;">
+            Hello
+        </div>
+    </body>

@@ -1,0 +1,22 @@
+<!DOCTYPE Html>
+<html lang="eng">
+    <head>
+        <title>Document</title>
+        <style>
+            *
+            {
+                margin : 0;
+                padding : 0;
+                box-sizing: border-box;
+            div{
+               background: radial-gradient(red, black);
+            height: 100vh;
+            }
+        }
+        </style>
+    </head>
+    <body>
+         <div>
+        </div>
+    </body>
+</html>

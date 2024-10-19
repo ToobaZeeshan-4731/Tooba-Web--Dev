@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+         <title>Activity 1</title>
+         <style>
+            div{
+                background-color:yellow;
+            }
+            .Tooba{
+                background-color: blueviolet;
+            }
+            #Arham{
+                background-color: red;
+            }
+            </style>
+    </head>
+    <body>
+        <div class="Tooba">
+            Hello I am a Student.
+        </div>
+        <div id   =Arham  >
+            Hello I am a Teacher.
+        </div>
+    </body>
+    </html>
+        

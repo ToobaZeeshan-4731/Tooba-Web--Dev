@@ -11,7 +11,7 @@
             <input type="text" placeholder="Type your name"><br><br>
             <!--Enter Password-->
             <label><b>Password:</b></label><br>
-            <input type="password" name="Enter your password"><br><br>
+            <input type="password" placeholder="Enter your password"><br><br>
             <label><b>Email ID</b></label><br>
             <input type="email" name="Enter your Email"><br><br>
             <button>Login</button><br><br>
@@ -33,6 +33,5 @@
             <input type="checkbox" name="Bombay">Bombay<br>
         </form>
         </body>
-        </center>
 </html>
             

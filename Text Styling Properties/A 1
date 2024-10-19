@@ -1,0 +1,25 @@
+<!DOCTYPE Html>
+<html>
+    <title>
+        Typography
+    </title>
+    <head>
+<style>
+
+.text1{
+        color:red;
+        font-size:30px
+      }
+.p1{
+            color:blueviolet;
+            font-family: 'Courier New', Courier, monospace;
+    }
+</style>
+
+<body>
+    <h1>Typography</h1>
+
+    <p class="text1">I am Tooba.</p>
+    <p class="p1">I am a student.</p>
+</body>
+</html>

@@ -1,12 +1,64 @@
 <!Doctype html>
 <html lang="en">
     <head>
-        <title>Project</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Animal Habitats Game</title>
+        <title>My Portfolio</title>
         <link rel="stylesheet" href="styles.css">
     </head>
-    <body>
-        <header>
-            <h1>My Fa
+    <body bgcolor="pink">
+        <fieldset>
+            <legend><b>FORM TO SUBMIT</b></legend>
+        <center>
+        <header style="color:blue">
+            <h1>Personal Portfolio</h1>
+        </header>
+        <hr>
+    </center>
+        <main>
+            <label><b>Full Name:</b></label>
+            <input type="text" placeholder="Enter Your Name"><br><br>
+            <label><b>Email Address:</b></label>
+            <input type="email" placeholder="Enter Your Email Address"><br><br>
+            <label><b>Password:</b></label>
+            <input type="password" placeholder="Enter Your Password"><br><br>
+            <label><b>Cantact Number</b></label>
+            <input type="number" placeholder="Enter Your Phone Number"><br><br>
+            <label><b>Select Gender:</b></label><br>
+            <input type="checkbox" name="Gender">Male<br>
+            <input type="checkbox" name="Gender">Female<br>
+            <input type="checkbox" name="Gender">Other<br>
+            <label><b>Languages You know</b></label><br>
+            <input type="radio" name="html">Html<br>
+            <input type="radio" name="CSS">CSS<br>
+            <input type="radio" name="html">Python<br><br>
+            <label><b>Class of Study</b></label>
+            <select>
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+                <option>6</option>
+                <option>7</option>
+                <option>8</option>
+            </select><br><br>
+            <label><b>Date of birth</b></label>
+            <input type="date" name="Birthday"><br><br>
+            <label><b>Favourite Game</b></label>
+            <select>
+                <option>Football</option>
+                <option>Cricket</option>
+                <option>Hockey</option>
+                <option>Tennis</option>
+            </select><br><br>
+            <label><b>IQ</b></label>
+            <input type="range" name="IQ"><br>
+            <label>
+                <input type="submit" name="SUBMIT">
+            </label>
+            <input type=""
+        </main>
+        </fieldset>
+    </body>
+    </html>
